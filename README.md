@@ -2,7 +2,7 @@
 
 Laravel-based API for managing orders and payments with support for multiple payment gateways.
 
-## Features
+## Features 
 
 - JWT authentication
 - Multiple payment gateway support (PayPal, Stripe, Credit Card)
